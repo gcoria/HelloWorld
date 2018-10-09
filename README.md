@@ -17,6 +17,8 @@ Say hi to the world in any language of your choice!
 <br/>
 [Tushar Agarwal](https://github.com/niftytushar)
 <br/>
+[Gaston Coria](https://github.om/gcoria)
+<br/>
 
 -----
 # Don't forget to add yourself to Contributor's list
